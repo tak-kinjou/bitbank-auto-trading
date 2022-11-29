@@ -1,0 +1,5 @@
+pandas
+requests
+tqdm
+scipy
+git+https://github.com/bitbankinc/python-bitbankcc.git
